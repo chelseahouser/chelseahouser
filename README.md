@@ -17,19 +17,19 @@ Experienced application developer working as a consultant to help my clients fin
  <tr>
     <td width="50%">
       <p><b style="font-size:30px">Swagger To Postman</b></p>
-      <img src='images/swagger-to-postman.JPG' alt='swagger-to-postman' height='120' href="https://github.com/chelseahouser/swaggerToPostman" />
+      <img src='images/swagger-to-postman.JPG' alt='swagger-to-postman' height='120' href="//https://github.com/chelseahouser/swaggerToPostman" />
       <p>This application will take in a swagger url and create/update a postman collection based on the API definition.</p>
    </td>
     <td>
       <p><b style="font-size:30px">Portfolio Website</b></p>
-      <img src='images/website.JPG' alt='porfolio-website' height='120' href="https://github.com/chelseahouser/website" />
+      <img src='images/website.JPG' alt='porfolio-website' height='120' href="//https://github.com/chelseahouser/website" />
       <p>A personal website for demonstrating my skills and qualifications. Allowed me to play around with Firebase.</p>
    </td>
  </tr>
   <tr>
     <td width="50%">
       <p><b style="font-size:30px">Automated Integration Testing</b></p>
-      <img src='images/automated-integration-testing.JPG' alt='automated-integration-testing' height='120' href="https://github.com/chelseahouser/automated-integration-testing" />
+      <img src='images/automated-integration-testing.JPG' alt='automated-integration-testing' height='120' href="//https://github.com/chelseahouser/automated-integration-testing" />
       <p>This application builds on the swagger-to-postman project and sets up an automated pipeline for building integration tests using postman.</p>
     </td>
     <td>
@@ -42,4 +42,4 @@ Experienced application developer working as a consultant to help my clients fin
 <h1>Contact Me</h1>
 
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height='40'>](mailto:contact@chelseahouser.com) 
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](www.linkedin.com/in/chelsea-houser/) [<img src='images/website-badge.png' alt='website' height='40'>](https://chelseahouser.com/)  
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/chelsea-houser/) [<img src='images/website-badge.png' alt='website' height='40'>](https://chelseahouser.com/)  
