@@ -16,20 +16,20 @@ Experienced application developer working as a consultant to help my clients fin
 <table width="100%" style="text-align:center">
  <tr>
     <td width="50%">
-      <p><b style="font-size:30px">Swagger To Postman</b></p>
-      <img src='images/swagger-to-postman.JPG' alt='swagger-to-postman' height='120' href="//https://github.com/chelseahouser/swaggerToPostman" />
+      <p><a href="https://github.com/chelseahouser/swaggerToPostman"><b style="font-size:30px">Swagger To Postman</b></a></p>
+      <img src='images/swagger-to-postman.JPG' alt='swagger-to-postman' height='120' />
       <p>This application will take in a swagger url and create/update a postman collection based on the API definition.</p>
    </td>
     <td>
-      <p><b style="font-size:30px">Portfolio Website</b></p>
-      <img src='images/website.JPG' alt='porfolio-website' height='120' href="//https://github.com/chelseahouser/website" />
+      <p><a href="https://github.com/chelseahouser/website"><b style="font-size:30px">Portfolio Website</b></a></p>
+      <img src='images/website.JPG' alt='porfolio-website' height='120' />
       <p>A personal website for demonstrating my skills and qualifications. Allowed me to play around with Firebase.</p>
    </td>
  </tr>
   <tr>
     <td width="50%">
-      <p><b style="font-size:30px">Automated Integration Testing</b></p>
-      <img src='images/automated-integration-testing.JPG' alt='automated-integration-testing' height='120' href="//https://github.com/chelseahouser/automated-integration-testing" />
+      <p><a href="https://github.com/chelseahouser/automated-integration-testing"><b style="font-size:30px">Automated Integration Testing</b></a></p>
+      <img src='images/automated-integration-testing.JPG' alt='automated-integration-testing' height='120' />
       <p>This application builds on the swagger-to-postman project and sets up an automated pipeline for building integration tests using postman.</p>
     </td>
     <td>
