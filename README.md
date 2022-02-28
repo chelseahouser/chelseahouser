@@ -31,7 +31,9 @@ Experienced application developer working as a consultant to help my clients fin
       <p>This application serves as a proof of concept of a completely automated integration testing pipeline. This api is a simple library themed crud app that is built to swagger, imported into postman, and generates integration tests for all endpoints.</p>
     </td>
     <td>
-      <p><b style="font-size:30px">Next project?</b></p>
+      <p><a href="https://github.com/chelseahouser/home-library"><b style="font-size:30px">Home Library</b></a></p>
+      <img src='images/home-library.png' alt='home-library' height='120' />
+      <p>This application is a simple NestJS API that I use to build up a catalog of all my books. With this API I can track where my books are, what notes or reviews I have of them, and import them into my website to publish what I am reading.</p>
    </td>
  </tr>
 </table>
