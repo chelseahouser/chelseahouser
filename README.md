@@ -7,7 +7,7 @@ Experienced application developer working as a consultant to help my clients fin
 
 # What am I up to?
 
-- Working on an application to automate importing ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) documentation into ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white). This will allow me to build a fully automated pipeline from making a change in a controller action -> building the swagger documentation -> importing that swagger documentation into postman -> building integration tests within postman -> schedule the integration tests to run periodically. My POC is written with the help of ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) and my utilities are written in ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white).
+- Working on an application to automate importing ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) documentation into ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white). This will allow me to build a fully automated pipeline that will start from making a change in a controller action and building the swagger documentation, to then import that swagger documentation into postman and build integration tests within postman that can then be scheduled to run periodically. This application is written in ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white).
 - Learning DevOps in ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white). My current client is a heavy user of GCP and improving my knowledge of the structure will allow me to work more efficiently to help my client out. I hope to use my skills to improve the deployment pipeline on my project.
 - Refreshing my knowledge of ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) and ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) with the help of ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A). Regular practice of languages I have not used in a while, yet are still used at potential clients ensures my skills are always ready to jump to where I am needed the most.
 
@@ -18,7 +18,7 @@ Experienced application developer working as a consultant to help my clients fin
     <td width="50%">
       <p><a href="https://github.com/chelseahouser/swaggerToPostman"><b style="font-size:30px">Swagger To Postman</b></a></p>
       <img src='images/swagger-to-postman.JPG' alt='swagger-to-postman' height='120' />
-      <p>This application will take in a swagger url and create/update a postman collection based on the API definition. This API works as a utility for use in my Automated Integration testing POC.</p>
+      <p>This application will take in a swagger url and create/update a postman collection based on the API definition. From there, this application will build up some basic integration tests for automated pipelines.</p>
    </td>
     <td>
       <p><a href="https://github.com/chelseahouser/website"><b style="font-size:30px">Portfolio Website</b></a></p>
@@ -30,7 +30,7 @@ Experienced application developer working as a consultant to help my clients fin
     <td width="50%">
       <p><a href="https://github.com/chelseahouser/home-library"><b style="font-size:30px">Home Library</b></a></p>
       <img src='images/home-library.png' alt='home-library' height='120' />
-      <p>This application is a simple NestJS API that I use to build up a catalog of all my books. With this API I can track where my books are, what notes or reviews I have of them, and import them into my website to publish what I am reading.</p>
+      <p>Yes, another library app. This application is a simple NestJS API that I use to build up a catalog of all my books. With this API I can track where my books are, what notes or reviews I have of them, and import them into my website to publish what I am reading.</p>
     </td>
     <td>
       <p><a href=""><b style="font-size:30px">More to Come...</b></a></p>
